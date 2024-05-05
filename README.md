@@ -28,7 +28,7 @@ Download and install MySQL: If you haven't already, download and install MySQL s
 - Clone the database repository locally. Run this command (Terminal on Mac or Git Bash on Windows:If you don’t already have Git Bash, you’ll have to download it to complete this process.):
 
 ```
-git clone https://github.com/nurmahsereci/Airbnb-Database.git
+git clone https://github.com/nurmahsereci/AirBnb-Database.git
 ```
 
 ## Installations of the Project:
