@@ -24,7 +24,7 @@ The database facilitates the registration and management of users, including gue
 
 Download and install MySQL: If you haven't already, download and install MySQL server, MySQL Workbench, and MySQL shell from the official website: https://www.mysql.com/
 
-## Clone the Repository:**
+## Clone the Repository:
 - Clone the database repository locally. Run this command (Terminal on Mac or Git Bash on Windows:If you don’t already have Git Bash, you’ll have to download it to complete this process.):
 
 ```
