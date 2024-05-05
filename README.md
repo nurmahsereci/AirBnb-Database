@@ -1,6 +1,6 @@
-# Airbnb Database 
+# A Use Case of Airbnb Database 
 
-**The images in the media have been deleted in order not to violate copyrights.**
+**This project is a Computer Science Undergraduate student project.**
 
 ## Database Schema Overview
 
@@ -12,6 +12,7 @@ Each table stores specific information related to users, places, reservations, p
 
 The database facilitates the registration and management of users, including guests, hosts, and employees. Places available for rent are managed through the database. Hosts can list their places, and guests can browse and book them. The database handles reservations made by guests. Reservations are linked to specific listings and guests. Guests can submit reviews for properties they have stayed in. Payment transactions are recorded in the database. The system tracks income generated through reservations, providing insights into revenue generation for hosts and the platform. Users can file complaints regarding their experiences on the platform. The database handles notifications sent to users.
 
+**The images in the media have been deleted in order not to violate copyrights.**
 
 ## Prerequisites
 
